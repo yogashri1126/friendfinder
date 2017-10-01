@@ -79,6 +79,12 @@ module.exports = function(app) {
             if (match) {
                 console.log("Congrats! You matched with " + match.name)
                 res.json(match)
+                ftotal=0;
+                skore=0;
+                match=""
+                diff=[];
+                eval=[];
+
                     //This will eventually post to the modal
             } else {
                 console.log("Something's wrong, maybe you'll find love one day, but it's not going to be here!")
