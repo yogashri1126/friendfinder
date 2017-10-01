@@ -1,7 +1,7 @@
 
 var friends= [{
   "name":"Ramon",
-  "photo":"https://c1.staticflickr.com/6/5324/9703004247_7f474a5524_b.jpg",
+  "photo":"http://c1.staticflickr.com/6/5324/9703004247_7f474a5524_b.jpg",
   "scores":[
       3,
       3,
@@ -18,7 +18,7 @@ var friends= [{
 
 {
   "name":"Minesh",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/00a/10a/3fea32b.jpg",
+  "photo":"http://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/00a/10a/3fea32b.jpg",
   "scores":[
       5,
       3,
@@ -35,7 +35,7 @@ var friends= [{
 
 {
   "name":"Ravi",
-  "photo":"https://pbs.twimg.com/profile_images/789636067708194816/cNuPzvu6_400x400.jpg",
+  "photo":"http://pbs.twimg.com/profile_images/789636067708194816/cNuPzvu6_400x400.jpg",
   "scores":[
       3,
       1,
@@ -52,7 +52,7 @@ var friends= [{
 
 {
   "name":"Akash",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkMAAAAJGIyYWYwZDNhLTA4OGQtNGE5My04MjQ5LTY1OGU5MmQ5YzRjYw.jpg",
+  "photo":"http://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAkMAAAAJGIyYWYwZDNhLTA4OGQtNGE5My04MjQ5LTY1OGU5MmQ5YzRjYw.jpg",
   "scores":[
       1,
       3,
@@ -68,7 +68,7 @@ var friends= [{
 },
 {
   "name":"Nabil",
-  "photo":"https://s3.amazonaws.com/images.berecruited.com/photos/athletes/dashboard/205408.png?1429262264",
+  "photo":"http://s3.amazonaws.com/images.berecruited.com/photos/athletes/dashboard/205408.png?1429262264",
   "scores":[
       1,
       1,
@@ -84,7 +84,7 @@ var friends= [{
 },
 {
   "name":"Push",
-  "photo":"https://pbs.twimg.com/profile_images/859478849972838400/dXDm-KZh_400x400.jpg",
+  "photo":"http://pbs.twimg.com/profile_images/859478849972838400/dXDm-KZh_400x400.jpg",
   "scores":[
       1,
       1,
@@ -100,7 +100,7 @@ var friends= [{
 },
 {
   "name":"Hanyu",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAgyAAAAJDM2Y2Q2MjU1LTkzNTktNDk3My04ZThmLTdkYjViYjM1OTU3Yg.jpg",
+  "photo":"http://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAgyAAAAJDM2Y2Q2MjU1LTkzNTktNDk3My04ZThmLTdkYjViYjM1OTU3Yg.jpg",
   "scores":[
       5,
       5,
@@ -116,7 +116,7 @@ var friends= [{
 },
 {
   "name":"Ajay",
-  "photo":"https://igx.4sqi.net/img/user/110/79809822-3UQXXVDVAVRFBRCT.jpg",
+  "photo":"http://igx.4sqi.net/img/user/110/79809822-3UQXXVDVAVRFBRCT.jpg",
   "scores":[
       3,
       5,
@@ -149,7 +149,7 @@ var friends= [{
 },
 {
   "name":"Chin",
-  "photo":"https://www.spe.org/media/filer_public/a6/bf/a6bfe70a-cdbd-4dfb-93bf-9b5070247c51/twa_2017_07_studentfocus_himchand_persad_hero.jpg",
+  "photo":"http://www.spe.org/media/filer_public/a6/bf/a6bfe70a-cdbd-4dfb-93bf-9b5070247c51/twa_2017_07_studentfocus_himchand_persad_hero.jpg",
   "scores":[
       5,
       5,
